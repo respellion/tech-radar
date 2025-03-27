@@ -1,9 +1,9 @@
 {
-  "name": "zalando-tech-radar",
+  "name": "respellion-tech-radar",
   "version": "2024.1.0",
   "description": "Visualizing our technology choices",
-  "homepage": "https://github.com/zalando/tech-radar#readme",
-  "repository": "https://github.com/zalando/tech-radar.git",
+  "homepage": "https://github.com/respellion/tech-radar#readme",
+  "repository": "https://github.com/respellion/tech-radar.git",
   "license": "MIT",
   "private": true,
   "directories": {
